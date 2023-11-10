@@ -26,7 +26,7 @@ This section involves analyzing the temporal trends in the usage of pro bono leg
 - **Rolling Averages:** Smooth out short-term fluctuations and identify long-term trends by calculating rolling averages for both monthly and yearly data.
 
 
-### 3. NLP Processing & Text Analysis
+### 3. Text Analysis
 In this section, Natural Language Processing (NLP) techniques are employed to enhance the understanding of client experiences. I employed techniques such as machine learning, text processing, text vectorization, and word cloud visualization to uncover and understand topics within the pro bono legal service context.
 Tasks include:
 
