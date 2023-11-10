@@ -1,7 +1,7 @@
 # Pro-Bono-Legal-Services-Optimization
 
 ## Overview
-This project focuses on optimizing the pro bono legal services offered by the American Bar Association (ABA) through a comprehensive analysis. The source data for this project is sourced from the ABA. In adherence to the privacy and security policy, actual data files are not uploaded. Instead, only data dictionaries are provided for reference. The datasets, totaling approximately 800 MB, consist of files with a maximum of 500,000+ rows each. For additional details, please refer to the accompanying data dictionary. 
+This project focuses on optimizing the pro bono legal services offered by the American Bar Association (ABA) through a comprehensive analysis. The data for this project is sourced from the ABA. In strict adherence to the privacy and security policy, actual data files are *neither uploaded nor displayed* in the outputs. Instead, only data dictionaries are provided for reference. The datasets, totaling approximately 800 MB, consist of files with a maximum of 400,000+ rows each. For additional details, please refer to the accompanying data dictionary. 
 
 ## Project Structure
 The analysis is divided into three key parts:
